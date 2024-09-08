@@ -55,7 +55,7 @@ The Prakruti Determination Website is a web-based application and does not requi
 
 ## Authors
 
-- [Hrithik Chauhan](https://github.com/Hrithik-Chauhan)
+- [Srishti Baranwal](https://github.com/Srishti-Baranwal)
 
 ## License
 
